@@ -127,6 +127,7 @@ export default function IntegrationsComponent() {
             </div>
           </div>
         ))}
+       
       </div>
     </div>
   );
